@@ -39,3 +39,11 @@ It provides multiple PDF utilities through a simple and user-friendly interface.
 1. Clone the repository:
 ```bash
 git clone https://github.com/vanshikasingla52/smart-pdf-toolbox.git
+
+
+## 🔹 Screenshots
+
+![Main Window](screenshots/main_window.png)
+![Encrypt PDF](screenshots/encrypt_pdf.png)
+![PDF to Audio](screenshots/pdf_to_audio.png)
+![Merge PDFs](screenshots/merge_pdfs.png)
