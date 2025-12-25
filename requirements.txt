@@ -1,0 +1,7 @@
+tk
+pdf2docx
+PyPDF2
+Pillow
+PyMuPDF
+pyttsx3
+reportlab
